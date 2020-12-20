@@ -1,0 +1,7 @@
+* 9163f8f (HEAD -> master) readme file was added
+| * 64f24f1 (greeting) added greeting line to the file
+|/  
+* cde1598 greeting file was created
+
+the command show us a history of the commits (that was created in master branch and the other branch) 
+
